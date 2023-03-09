@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my readme on github 
 - 📫 How to reach me: @nwplusubc
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: fnnfsjnfss
 -->
