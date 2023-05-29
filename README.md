@@ -4,6 +4,7 @@ I'm Janaye -- a second year Cognitive Systems student eager to find nuanced solu
 
 Some projects that I'm working on include: 
 - 🪸 personal portfolio where you can find my projects online
+- 🐡 some front-end website work for the Vision and Cognition Lab at UBC 
 - 🫧 A java Prescription app that tracks and schedules dosages for patients
 
 You can reach me at janaye.c13@gmail.com. I look forward to meeting you ! 💌
