@@ -1,6 +1,6 @@
 ### hello hello ! 🎐
 
-I'm Janaye -- a 3rd tear Cognitive Systems student eager to find nuanced solutions to complexproblems. I'm currently exploring how we can learn from natural intelligence systems to design and implement intelligent, prototype-based models to promote diversity, accessibility and inclusivity. 
+I'm Janaye -- a 3rd tear Cognitive Systems student eager to find nuanced solutions to complex problems. I'm currently exploring how we can learn from natural intelligence systems to design and implement intelligent, prototype-based models to promote diversity, accessibility and inclusivity. 
 
 Some projects that I'm working on include: 
 - 🏥 A DBMS to automate scheduling and volunteer allocation for the UBC Blood for Life association (affiliatd with the Canadian Blood Services)
