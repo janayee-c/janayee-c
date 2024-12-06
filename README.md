@@ -3,10 +3,9 @@
 I'm Janaye -- a 3rd year Cognitive Systems student eager to find nuanced solutions to complex problems. I'm currently exploring how we can learn from natural intelligence systems to design and implement intelligent, prototype-based models to promote diversity, accessibility and inclusivity. 
 
 Some projects that I'm working on include: 
-- 🔬 An NLP pipeline using BERT-based Transformers and a multi-scale GAT for time-series forecasting 
+- 🔬 An NLP pipeline using BERT-based Transformers and a multi-scale GAT for time-series forecasting
+- 📘 Models of psychology research such as the moral trolley problem, human conformity and the OCEAN Personality Traits using Bayesian Statistics and Monte Carlo Markov Chains 
 - 🏥 A DBMS to automate scheduling and volunteer allocation for the UBC Blood for Life association (affiliatd with the Canadian Blood Services)
-- 💙 A web app to promote social interaction among students and accessibility for course planning
-- 🪸 A personal portfolio where you can find more about me and my projects online
 - 🐡 Two websites for the Vision and Cognition Lab at UBC 
 - 🫧 A Java Prescription app that tracks and schedules dosages for patients
 
