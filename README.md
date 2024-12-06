@@ -1,6 +1,6 @@
 ### hello hello ! 🎐
 
-I'm Janaye -- a 4th year BSc. Cognitive Systems student eager to find nuanced solutions to complex problems. I'm currently exploring how we can learn from natural intelligence systems to design and implement intelligent, prototype-based models to promote diversity, accessibility and inclusivity. 
+I'm Janaye -- a 4th year BSc. Cognitive Systems student at UBC who is eager to find nuanced solutions to complex problems. I'm currently exploring how we can learn from the latest advancements in human perceptual systems to design and implement intuitive, adaptable and efficient technical solutions that promote diversity, accessibility, and inclusivity. 
 
 Some projects that I'm working on include: 
 - 🔬 An NLP pipeline using BERT-based Transformers and a multi-scale GAT for time-series forecasting
