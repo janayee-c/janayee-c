@@ -1,15 +1,22 @@
 ### hello hello ! 🎐
 
-I'm Janaye -- a 4th year BSc. Cognitive Systems student at UBC who is eager to find nuanced solutions to complex problems. I'm currently exploring how we can learn from the latest advancements in human perceptual systems to design and implement intuitive, adaptable and efficient technical solutions that promote diversity, accessibility, and inclusivity. 
+I'm Janaye, a 4th-year Cognitive Systems student at UBC working at the intersection of machine learning, cognitive science, and human-centered systems design. I’m passionate about building intuitive, scalable tools that bridge domains—from market insights to healthcare to emerging technologies—to help people make clearer, more informed decisions.
 
-Some projects that I'm working on include: 
-- 🔬 An NLP pipeline using BERT-based Transformers and a multi-scale GAT for time-series forecasting
-- 📘 Models of psychology research such as the moral trolley problem, human conformity and the OCEAN Personality Traits using Bayesian Statistics and Monte Carlo Markov Chains 
-- 🏥 A DBMS to automate scheduling and volunteer allocation for the UBC Blood for Life association (affiliatd with the Canadian Blood Services)
-- 🐡 Two websites for the Vision and Cognition Lab at UBC 
-- 🫧 A Java Prescription app that tracks and schedules dosages for patients
+🌟 What I’m working on:
 
-You can reach me at janaye.c13@gmail.com. I look forward to meeting you ! 💌
+🫁 MIMIC-CXR Multimodal Pipeline — radiomics, BERT embeddings, RadGraph-XL & image features for ICU pneumonia severity prediction
+
+🧬 Clinical ML at SGH — survival prediction for head & neck cancers using Cox/KM modeling and multimodal single-cell pipelines
+
+🔬 Tech-Convergence Model — NLP + BERTopic + XGBoost + multi-scale GAT to forecast emerging technology trends
+
+🖥️ UBCMA Membership Portal — a full-stack platform (Next.js, Express, Stripe, PostgreSQL) powering onboarding, payments & QR-ticketing for 200+ members
+
+🧠 Bayesian Models of Cognition — exploring moral reasoning, conformity, and personality dynamics using MCMC & hierarchical priors
+
+📮 Reach me at: janaye.c13@gmail.com
+
+Nice to meet you! 💌I look forward to meeting you ! 💌
 
 
 
