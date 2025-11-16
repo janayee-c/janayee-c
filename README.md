@@ -4,20 +4,20 @@ I'm Janaye, a 4th-year COGS student at UBC exploring how computer systems, neuro
 
 Some projects I'm working on:
 
-🫁 A MIMIC-CXR Multimodal Pipeline — radiomics, BERT embeddings, RadGraph-XL & image features for ICU pneumonia severity prediction
-🧬 Clinical ML at SGH — survival prediction for head & neck cancers using Cox/KM modeling and multimodal single-cell pipelines
-🔬 Tech-Convergence Model — NLP + BERTopic + XGBoost + multi-scale GAT to forecast emerging technology trends
-🖥️ UBCMA Membership Portal — a full-stack platform (Next.js, Express, Stripe, PostgreSQL) powering onboarding, payments & QR-ticketing for 200+ members
-🧠 Bayesian Models of Cognition — exploring moral reasoning, conformity, and personality dynamics using MCMC & hierarchical priors
+- 🔬 Time-series Forecasting model using NLP + BERTopic + XGBoost + multi-scale GAT to predict technology trends
+- 🖥️ UBCMA Membership Portal — a full-stack platform (Next.js, Express, Stripe, PostgreSQL) powering onboarding, payments & QR-ticketing for 200+ members
+- 🫁 A MIMIC-CXR Multimodal Pipeline using radiomics, BERT embeddings, RadGraph-XL & image features for ICU pneumonia severity prediction
+- 🧬 Clinical ML at SGH — survival prediction for head & neck cancers using Cox/KM modeling and multimodal single-cell pipelines
+- 🧠 Bayesian Models of Cognition — exploring moral reasoning, conformity, and personality dynamics using MCMC & hierarchical priors
 
 Outside work and school, you’ll usually catch me:
 
-🧗‍♀️ Bouldering at the Hive or climbing outdoors in Squamish
-☕ Hunting for the next best café in Singapore or Vancouver
-🚗 Driving around Richmond + DT to try new food spots
-✨ Searching for new Pokemon card pulls 
-🏃‍♀️ Running along Spanish Banks or English Bay
-🤸🏻‍♀️ At a Pilates class with friends
+- 🧗‍♀️ Bouldering at the Hive or climbing outdoors in Squamish
+- ☕ Hunting for the next best café in Singapore or Vancouver
+- 🚗 Driving around Richmond + DT to try new food spots
+- ✨ Searching for new Pokemon card pulls 
+- 🏃‍♀️ Running along Spanish Banks or English Bay
+- 🤸🏻‍♀️ At a Pilates class with friends
 
  💌 I look forward to meeting you ! 💌
 
