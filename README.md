@@ -2,7 +2,7 @@
 
 Currently, I'm a 4th-year COGS student at UBC exploring how computer systems, neuroscience, ML and thoughtful design can shape better decision-making systems across industries. I love building bridges hat scale—from clinical prediction models and tech-market intelligence tools to consumer-focused products that are intuitive, transparent, and genuinely helpful across technical and non-technical users. Across healthcare, emerging tech, and everyday user experiences, my work centers on clarity, accessibility, and empowering people to act with confidence.
 
-Over the years, I've had the privilege of working and building with deep technology venture firm, [Hello Tomorrow](https://hello-tomorrow.org/) and on the Surgical ACP Team at [Singapore General Hospital](https://www.sgh.com.sg/research-innovation/innovation)
+Over the years, I've had the privilege of working as a data associate and engineer with deep technology venture firm, [Hello Tomorrow](https://hello-tomorrow.org/) and on the Surgical ACP Team at [Singapore General Hospital](https://www.sgh.com.sg/research-innovation/innovation) as a data science intern
 
 Some projects I'm working on:
 
