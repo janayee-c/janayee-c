@@ -1,6 +1,6 @@
-### hello hello ! 🎐
+### Hello hello! I'm Janaye 🎐
 
-I'm Janaye, a 4th-year COGS student at UBC exploring how computer systems, neuroscience, ML and thoughtful design can shape better decision-making systems across industries. I love building solutions that scale—from clinical prediction models and tech-market intelligence tools to consumer-focused products that are intuitive, transparent, and genuinely helpful across technical and non-technical users. Across healthcare, emerging tech, and everyday user experiences, my work centers on clarity, accessibility, and empowering people to act with confidence.
+Currently, I'm a 4th-year COGS student at UBC exploring how computer systems, neuroscience, ML and thoughtful design can shape better decision-making systems across industries. I love building solutions that scale—from clinical prediction models and tech-market intelligence tools to consumer-focused products that are intuitive, transparent, and genuinely helpful across technical and non-technical users. Across healthcare, emerging tech, and everyday user experiences, my work centers on clarity, accessibility, and empowering people to act with confidence.
 
 Some projects I'm working on:
 
